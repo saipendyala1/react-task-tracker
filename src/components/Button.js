@@ -7,6 +7,7 @@ return (
         onClick={onClick}
         style={{ backgroundColor: color }}
         className='btn'
+        // onTouch = {onTouch}
     >
     {text}
 </button>
